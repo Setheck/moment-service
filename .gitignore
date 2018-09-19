@@ -1,0 +1,13 @@
+# Config files
+MomentService.yaml
+MomentService.yml
+
+# Logs
+logs/
+
+# Build files
+target/
+
+#idea project files
+.idea/
+*.iml
